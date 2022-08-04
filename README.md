@@ -2,9 +2,15 @@
 
 I'm Jan WILLEMS, 38 years old, father of 2 beautiful girls, and virtualization enthusiast !
 
-Currently Virtualization engineer at Worldline France, working on vSphere environments.
+## cat /etc/os-release
 
+- Currently Virtualization engineer at [Worldline France](https://fr.worldline.com/fr/home.html)
+- Working on vSphere environments (1200+ hosts, 30 vCenters, 200 clusters)
+- Homelaber (vSphere and Proxmox environnments, pfSense as home router, multiple Synology NAS, ...)
 
+### How to reach me
+
+- [Linkedin](https://www.linkedin.com/in/jwille/)
 
 <!--
 **janwillemsio/janwillemsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
