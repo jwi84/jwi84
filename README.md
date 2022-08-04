@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jan WILLEMS, 38 years old, father of 2 beautiful girls, and virtualization enthusiast !
+I'm __Jan WILLEMS__, 38 years old, father of **2** beautiful girls, and virtualization enthusiast !
 
 ## cat /etc/os-release
 
