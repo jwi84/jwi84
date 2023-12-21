@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm __Jan WILLEMS__, 38 years old, father of **2** beautiful girls, and virtualization enthusiast !
+I'm __Jan WILLEMS__, 39 years old, father of **2** beautiful girls, and virtualization enthusiast !
 
 ## cat /etc/os-release
 
 - Currently Virtualization engineer at [Worldline France](https://fr.worldline.com/fr/home.html)
-- Working on vSphere environments (1200+ hosts, 30 vCenters, 200 clusters)
+- Working on vSphere environments (1200+ hosts, 39 vCenters, 220+ clusters)
 - Homelaber (vSphere, pfSense as home router, Unraid, multiple Synology NAS, ...)
 
 ### How to reach me
