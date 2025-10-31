@@ -6,7 +6,7 @@ I'm __Jan WILLEMS__, 41 years old, father of **2** beautiful girls, and virtuali
 
 - Currently Virtualization engineer at [Worldline France](https://fr.worldline.com/fr/home.html)
 - Working on vSphere environments (1200+ hosts, 39 vCenters, 220+ clusters)
-- Homelaber (vSphere, pfSense as home router, Unraid, multiple Synology NAS, ...)
+- Homelaber (Proxmox/vSphere/Nutanix CE, pfSense as home router, Unraid, multiple Synology NAS, ...)
 
 ### How to reach me
 
